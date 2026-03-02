@@ -23,5 +23,12 @@
       "content": "More content here."
     }
   ],
-  "blogs": []
+  "blogs": [
+    {
+      "title": "Test",
+      "author": "Duc",
+      "content": "bla bla",
+      "id": 1
+    }
+  ]
 }
