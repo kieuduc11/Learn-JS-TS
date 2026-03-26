@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Hỏi Dân IT",
-      "email": "hoidanit@example.com"
+      "name": "KieuDuc",
+      "email": "kieuduc@example.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Eric",
-      "email": "eric@example.com"
+      "name": "",
+      "email": "",
+      "id": 3
     }
   ],
   "posts": [
@@ -18,17 +18,39 @@
       "content": "This is a post."
     },
     {
-      "id": 2,
       "title": "Another Post",
-      "content": "More content here."
+      "content": "More content here. Updated",
+      "id": 2
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 4
     }
   ],
   "blogs": [
     {
-      "title": "Test",
-      "author": "Duc",
-      "content": "bla bla",
-      "id": 1
+      "title": "Helle",
+      "author": "Kieu Duc",
+      "content": "Learn Js",
+      "id": 5
+    },
+    {
+      "title": "JS",
+      "author": "Kieu Duc",
+      "content": "Updated",
+      "id": 6
+    },
+    {
+      "title": "",
+      "author": "",
+      "content": "",
+      "id": 7
     }
   ]
 }
